@@ -44,6 +44,8 @@ Fax: 604-675-8183
 
 ---
 
+<img align="right" src="/img/fong.jpg" height="200">
+
 **Fong Chun Chan, Head of Bioinformatics**
 
 <fcchan@bccrc.ca>
