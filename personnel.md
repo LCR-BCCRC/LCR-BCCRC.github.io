@@ -40,9 +40,13 @@ Fax: 604-675-8183
 
 <br>
 
-### Bioinformatics Team
+### Staff Scientists
 
 ---
+
+**Barbara Meissner, Biospecimens Core Leader**
+
+<bmeissner@bccancer.bc.ca>
 
 <img align="right" src="/img/fong.jpg" height="200">
 
