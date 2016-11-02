@@ -48,16 +48,22 @@ Fax: 604-675-8183
 
 <bmeissner@bccancer.bc.ca>
 
+---
+
 <img align="right" src="/img/fong.jpg" height="200">
 
 **Fong Chun Chan, Head of Bioinformatics**
 
 <fcchan@bccrc.ca>
 
+---
+
 **Stacy Hung, Bioinformatics Scientist**
+
+---
 
 **Lauren Chong, Bioinformatics Scientist**
 
-**Hennady Shulha, Bioinformatics Scientist**
+---
 
-<fcchan@bccrc.ca>
+**Hennady Shulha, Bioinformatics Scientist**
