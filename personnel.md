@@ -53,3 +53,11 @@ Fax: 604-675-8183
 **Fong Chun Chan, Head of Bioinformatics**
 
 <fcchan@bccrc.ca>
+
+**Stacy Hung, Bioinformatics Scientist**
+
+**Lauren Chong, Bioinformatics Scientist**
+
+**Hennady Shulha, Bioinformatics Scientist**
+
+<fcchan@bccrc.ca>
