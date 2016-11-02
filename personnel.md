@@ -40,14 +40,14 @@ Fax: 604-675-8183
 
 <br>
 
-### Staff Scientists
-
+### Wet-lab Staff Scientists
 ---
 
 **Dr. Barbara Meissner, PhD, Biospecimens Core Leader**
 
 <bmeissner@bccancer.bc.ca>
 
+### Bioinformatics Staff Scientists
 ---
 
 <img align="right" src="/img/fong.jpg" height="150">
@@ -55,7 +55,6 @@ Fax: 604-675-8183
 **Fong Chun Chan, Head of Bioinformatics**
 
 <fcchan@bccrc.ca>
-
 
 ---
 
