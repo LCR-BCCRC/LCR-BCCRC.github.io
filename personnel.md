@@ -44,7 +44,7 @@ Fax: 604-675-8183
 
 ---
 
-**Barbara Meissner, Biospecimens Core Leader**
+**Dr. Barbara Meissner, PhD, Biospecimens Core Leader**
 
 <bmeissner@bccancer.bc.ca>
 
