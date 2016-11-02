@@ -11,8 +11,6 @@ Please direct applications to Lori-Ann Wilson (lwilson@bccrc.ca).
 The Steidl lab is currently hiring the following positions:
 
 * Bioinformatics graduate students
-* Co-op students
-    + [Bioinformatics Engineer]({{ site.url }}/Bioinformatics_engineering_coop_student.html)
 
 # Scott Lab
 
