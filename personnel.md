@@ -40,14 +40,14 @@ Fax: 604-675-8183
 
 <br>
 
-### Wet-lab Staff Scientists
+### Biospecimens Team
 ---
 
 **Dr. Barbara Meissner, PhD, Biospecimens Core Leader**
 
 <bmeissner@bccancer.bc.ca>
 
-### Bioinformatics Staff Scientists
+### Bioinformatics Team
 ---
 
 <img align="right" src="/img/fong.jpg" height="150">
