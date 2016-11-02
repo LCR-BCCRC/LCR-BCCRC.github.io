@@ -1,6 +1,7 @@
 ---
 layout: page
 title:
+permalink: /Bioinformatics_engineering_coop_student.html
 ---
 
 # Bioinformatics Engineering Co-op Student
