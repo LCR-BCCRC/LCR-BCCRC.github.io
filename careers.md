@@ -12,7 +12,7 @@ The Steidl lab is currently hiring the following positions:
 
 * Bioinformatics graduate students
 * Co-op students
-    + [Bioinformatics Engineer](/Bioinformatics_engineering_coop_student)
+    + [Bioinformatics Engineer](Bioinformatics_engineering_coop_student.html)
 
 # Scott Lab
 
