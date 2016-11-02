@@ -50,7 +50,7 @@ Fax: 604-675-8183
 
 ---
 
-<img align="right" src="/img/fong.jpg" height="200">
+<img align="right" src="/img/fong.jpg" height="150">
 
 **Fong Chun Chan, Head of Bioinformatics**
 
