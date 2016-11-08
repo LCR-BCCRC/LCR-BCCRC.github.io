@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Personnel
+subtitle:
 permalink: /personnel.html
 ---
 
