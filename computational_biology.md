@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Computational Biology
-permalink: computational_biology.html
+permalink: /computational_biology.html
 ---
 
 Computational biology in the LCR department is performed by the [bioinformatics team]({{ site.url }}/personnel.html).
