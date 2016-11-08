@@ -1,19 +1,16 @@
 ---
 layout: page
-title: Computational Biology
-permalink: /computational_biology.html
+title: Technologies
+permalink: /technologies.html
 ---
 
-Computational biology in the LCR department is performed by the [bioinformatics team]({{ site.url }}/personnel.html).
+The LCR group is always exploring the use of new technologies to advance our research. Some of the current platforms we utilize within our group are:
 
-Some of the main tasks we perform include:
+* Illumina MiSeq for next-generation sequencing
+* Nanostring nCounter for gene expression analysis
 
-* **Pipeline Development**
+We also work closely with other researchers at the BC Cancer Agency and the [Michael Smith Genome Sciences Centre](http://www.bcgsc.ca/). These collaborations allow us to generate data using many additional technologies including:
 
-  We strive to create reproducible and well-documented analysis pipelines for use within and outside the group. We currently develop our pipelines using GNU Makefiles, and are now exploring the use of high-level pipelining tools. 
-  
-* **Lymphoma sample database** 
-
-  Thanks to the generosity of patients and their families, the LCR department has access to a large repository of lymphoma tissue for research purposes. A major focus is the organization and tracking of these samples, and we are working to develop a robust database to accomplish this task.
-
-For opportunities available within the computational biology platform, please see the [Careers page]({{ site.url }}/careers.html).
+* Illumina HiSeq and NextSeq
+* 10X Genomics Chromium
+* Proteomics (mass spectrometry)
