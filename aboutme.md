@@ -2,6 +2,7 @@
 layout: page
 title: About us
 subtitle: Information about the LCR department at the BC Cancer Agency
+permalink: /aboutme.html
 ---
 
 Founded in 2014 under the direction of Drs. Randy Gascoyne and Christian Steidl, **Lymphoid Cancer Research** is a relatively young department at the BC Cancer Agency Research Centre. The foundation of the Department was developed over the past decade as a research lab in close association with the BC Cancer Agency’s Centre for Lymphoid Cancer — a globally recognized leader in lymphoma research.
