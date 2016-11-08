@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Personnel
-permalink: personnel.html
+permalink: /personnel.html
 ---
 
 ### Principal Investigators
