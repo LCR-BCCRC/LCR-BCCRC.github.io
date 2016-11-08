@@ -25,7 +25,7 @@ description: LCR Department at the BC Cancer Research Centre
 navbar-links:
   About Us: "aboutme"
   Careers: "careers"
-  Personnel: "personnel"
+  Personnel: "/personnel.html"
   Platforms:
     - Computational biology: "computational_biology"
 
