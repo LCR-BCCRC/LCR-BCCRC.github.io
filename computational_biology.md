@@ -4,6 +4,8 @@ title: Computational Biology
 permalink: /computational_biology.html
 ---
 
+![](/img/bioinfo_team.jpg)
+
 Computational biology in the LCR department is performed by the [bioinformatics team]({{ site.url }}/personnel.html).
 
 Some of the main tasks we perform include:
