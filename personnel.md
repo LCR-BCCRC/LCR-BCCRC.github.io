@@ -5,7 +5,7 @@ subtitle:
 permalink: /personnel.html
 ---
 
-### Principal Investigators
+## Principal Investigators
 
 ---
 
@@ -29,7 +29,7 @@ Please visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
 
 <br>
 
-### Administrative Staff
+## Administrative Staff
 
 ---
 
@@ -42,37 +42,47 @@ Fax: 604-675-8183
 
 <br>
 
-### Biospecimens Team
+## Biospecimens Team
 ---
 
 **Dr. Barbara Meissner, PhD, Biospecimens Core Leader**
 
 <bmeissner@bccancer.bc.ca>
 
-### Bioinformatics Team
+<br>
+
+## Bioinformatics Team
 ---
 
-<img align="right" src="/img/fong.jpg" height="150">
+<div class="panel panel-info">
 
-**Fong Chun Chan, Head of Bioinformatics**
+  <img align="right" src="/img/fong.jpg" height="150">
 
-<fcchan@bccrc.ca>
+  **Fong Chun Chan, Head of Bioinformatics**
+
+  <fcchan@bccrc.ca>
+
+</div>
 
 ---
+
+<img align="right" src="/img/stacy.jpg" height="150">
 
 **Stacy Hung, Bioinformatics Scientist**
 
 <shung@bccrc.ca>
 
-<img align="right" src="/img/stacy.jpg" height="150">
+<br>
 
 ---
+
+<img align="right" src="/img/lauren.jpg" height="150">
 
 **Lauren Chong, Bioinformatics Scientist**
 
 <lchong@bccrc.ca>
 
-<img align="right" src="/img/lauren.jpg" height="150">
+<br>
 
 ---
 
