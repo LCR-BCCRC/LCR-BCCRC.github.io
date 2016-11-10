@@ -33,7 +33,7 @@ Please visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
 
 ---
 
-<img align="right" src="/img/Lori-Ann.jpg" height="150">
+<img align="right" src="/img/Lori-Ann.jpg" height="175">
 
 **Lori-Ann Wilson, Administrative Coordinator**
 
