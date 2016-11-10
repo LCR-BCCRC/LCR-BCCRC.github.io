@@ -62,10 +62,20 @@ Fax: 604-675-8183
 
 **Stacy Hung, Bioinformatics Scientist**
 
+<shung@bccrc.ca>
+
+<img align="right" src="/img/stacy.jpg" height="150">
+
 ---
 
 **Lauren Chong, Bioinformatics Scientist**
 
+<lchong@bccrc.ca>
+
+<img align="right" src="/img/lauren.jpg" height="150">
+
 ---
 
 **Hennady Shulha, Bioinformatics Scientist**
+
+<hshulha@bccrc.ca>
