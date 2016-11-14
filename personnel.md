@@ -1,9 +1,11 @@
 ---
 layout: page
 title: Personnel
+subtitle:
+permalink: /personnel.html
 ---
 
-### Principal Investigators
+## Principal Investigators
 
 ---
 
@@ -27,9 +29,11 @@ Please visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
 
 <br>
 
-### Administrative Staff
+## Administrative Staff
 
 ---
+
+<img align="right" src="/img/Lori-Ann.jpg" height="175">
 
 **Lori-Ann Wilson, Administrative Coordinator**
 
@@ -40,14 +44,16 @@ Fax: 604-675-8183
 
 <br>
 
-### Wet-lab Staff Scientists
+## Biospecimens Team
 ---
 
 **Dr. Barbara Meissner, PhD, Biospecimens Core Leader**
 
 <bmeissner@bccancer.bc.ca>
 
-### Bioinformatics Staff Scientists
+<br>
+
+## Bioinformatics Team
 ---
 
 <img align="right" src="/img/fong.jpg" height="150">
@@ -56,14 +62,30 @@ Fax: 604-675-8183
 
 <fcchan@bccrc.ca>
 
+<br>
+
 ---
+
+<img align="right" src="/img/stacy.jpg" height="150">
 
 **Stacy Hung, Bioinformatics Scientist**
 
+<shung@bccrc.ca>
+
+<br>
+
 ---
 
+<img align="right" src="/img/lauren.jpg" height="150">
+
 **Lauren Chong, Bioinformatics Scientist**
+
+<lchong@bccrc.ca>
+
+<br>
 
 ---
 
 **Hennady Shulha, Bioinformatics Scientist**
+
+<hshulha@bccrc.ca>
