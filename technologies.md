@@ -8,9 +8,9 @@ The LCR group is always exploring the use of new technologies to advance our res
 
 * **Illumina MiSeq for next-generation sequencing**
 
-* **Nanostring nCounter for gene expression analysis**
+* **NanoString nCounter for gene expression analysis**
 
-  Nanostring's nCounter technology allows us to utilize our large repository of formalin-fixed paraffin-embedded tissue (FFPET) for exploring gene expression analysis in primary samples and cell lines.
+  NanoString's nCounter technology allows us to utilize our large repository of formalin-fixed paraffin-embedded tissue (FFPET) for exploring gene expression analysis in primary samples and cell lines.
   
   Some selected publications from the LCR group that have used this technology include:
   
