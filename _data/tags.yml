@@ -1,0 +1,21 @@
+meetings:
+  slug: meetings
+  name: meetings & conferences
+WGS:
+  slug: WGS
+  name: WGS
+targetedSequencing:
+  slug: targetedSequencing
+  name: targeted sequencing
+ddPCR:
+  slug: ddPCR
+  name: digital droplet PCR
+nanostring:
+  slug: nanostring
+  name: NanoString
+FISH:
+  slug: FISH
+  name: FISH
+Lymph2Cx:
+  slug: Lymph2Cx
+  name: Lymph2Cx
