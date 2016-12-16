@@ -9,7 +9,7 @@ output:
 
 [Histological Transformation and Progression in Follicular Lymphoma: A Clonal Evolution Study](http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002197). \*Kridel, R, \*Chan FC, et al. PLoS Medicine, 2016. \*Equal Contribution.
 
-  * Using a combination of **whole-genome sequencing**, **targeted capture sequencing**, and **digital droplet PCR**, this study demonstrates divergent patterns of clonal evolution in follicular lymphomas from patients who undergo histological transformation vs. early progression. The authors conclude that transformed tumours are composed mainly of clones that are rare or absent at diagnosis, whereas tumours that progress early typically arise from clones already present at diagnosis.
+  * Using a combination of **whole-genome sequencing**, **targeted sequencing**, and **digital droplet PCR**, this study demonstrates divergent patterns of clonal evolution in patients with follicular lymphomas that undergo histological transformation vs. early progression. The authors conclude that transformed tumours are composed mainly of clones that are rare or absent at diagnosis, whereas tumours that progress early typically arise from highly prevalent clones at diagnosis.
   
 [Comprehensive characterization of programmed death ligand structural rearrangements in B-cell non-Hodgkin lymphomas](https://www.ncbi.nlm.nih.gov/pubmed/27268263). \*Chong LC, \*Twa DDW, \*Mottok A, et al. Blood, 2016. \*Equal Contribution.
 
