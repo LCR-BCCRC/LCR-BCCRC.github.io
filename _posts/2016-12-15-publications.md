@@ -17,7 +17,7 @@ output:
   
 [Genomic Alterations in CIITA Are Frequent in Primary Mediastinal Large B Cell Lymphoma and Are Associated with Diminished MHC Class II Expression](https://www.ncbi.nlm.nih.gov/pubmed/26549456). Mottok A, et al. Cell Reports, 2015.
 
-  * Utilizing next-generation sequencing data, the authors show that mutations in the *CIITA* gene are present in over half of PMBCL cases. These mutations lead to reduced expression of MHC class II and an immune privilege phenotype, and analysis of mutational patterns suggests that they likely result from aberrant AID activity, 
+  * Utilizing next-generation sequencing data, the authors show that mutations in the *CIITA* gene are present in over half of PMBCL cases. These mutations lead to reduced expression of MHC class II and an immune privilege phenotype, and analysis of mutational patterns suggests that they likely result from aberrant AID activity.
 
 [Cell of origin of transformed follicular lymphoma](https://www.ncbi.nlm.nih.gov/pubmed/26307535). Kridel R, et al. Blood, 2015.
 
