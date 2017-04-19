@@ -33,11 +33,9 @@ Please visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
 
 ---
 
-<img align="right" src="/img/Lori-Ann.jpg" height="175">
+**Barbara Yuen, Administrative Coordinator**
 
-**Lori-Ann Wilson, Administrative Coordinator**
-
-<lwilson@bccrc.ca>  
+<byuen@bccrc.ca>  
 Tel: 604-675-8000 x7621  
 Fax: 604-675-8183  
 675 West 10th Ave, Vancouver BC, V5Z 1L3
@@ -56,19 +54,9 @@ Fax: 604-675-8183
 ## Bioinformatics Team
 ---
 
-<img align="right" src="/img/fong.jpg" height="150">
-
-**Fong Chun Chan, Head of Bioinformatics**
-
-<fcchan@bccrc.ca>
-
-<br>
-
----
-
 <img align="right" src="/img/stacy.jpg" height="150">
 
-**Stacy Hung, Bioinformatics Scientist**
+**Stacy Hung, Senior Bioinformatics Scientist**
 
 <shung@bccrc.ca>
 
@@ -78,7 +66,7 @@ Fax: 604-675-8183
 
 <img align="right" src="/img/lauren.jpg" height="150">
 
-**Lauren Chong, Bioinformatics Scientist**
+**Lauren Chong, Senior Bioinformatics Scientist**
 
 <lchong@bccrc.ca>
 
@@ -86,6 +74,12 @@ Fax: 604-675-8183
 
 ---
 
-**Hennady Shulha, Bioinformatics Scientist**
+<img align="right" src="/img/fong.jpg" height="150">
 
-<hshulha@bccrc.ca>
+**Fong Chun Chan, Bioinformatician**
+
+<fcchan@bccrc.ca>
+
+<br>
+
+---
