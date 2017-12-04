@@ -19,3 +19,15 @@ FISH:
 Lymph2Cx:
   slug: Lymph2Cx
   name: Lymph2Cx
+DLBCL:
+  slug: DLBCL
+  name: DLBCL
+cHL:
+  slug: cHL
+  name: cHL
+IHC:
+  slug: IHC
+  name: IHC
+Awards:
+  slug: Awards
+  name: Awards
