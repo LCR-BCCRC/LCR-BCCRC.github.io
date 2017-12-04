@@ -9,4 +9,4 @@ output:
 
 Congratulations to Dr. Christian Steidl on being named a Member of the Royal Society of Canada for his contributions to lymphoma research.
 
-Read more about the award \[here](http://www.bccancer.bc.ca/about/news-stories/stories/dr-christin-steidl-named-a-fellow-to-the-royal-society-of-canada)!
+Read more about the award [here](http://www.bccancer.bc.ca/about/news-stories/stories/dr-christin-steidl-named-a-fellow-to-the-royal-society-of-canada)!
