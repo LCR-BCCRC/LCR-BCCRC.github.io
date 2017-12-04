@@ -33,9 +33,9 @@ Please visit the [Steidl Lab website](http://steidllab.med.ubc.ca/)!
 
 ---
 
-**Barbara Yuen, Administrative Coordinator**
+**Sara Frankenberger, Administrative Coordinator**
 
-<byuen@bccrc.ca>  
+<sfranken@bccrc.ca>  
 Tel: 604-675-8000 x7621  
 Fax: 604-675-8183  
 675 West 10th Ave, Vancouver BC, V5Z 1L3
@@ -69,16 +69,6 @@ Fax: 604-675-8183
 **Lauren Chong, Senior Bioinformatics Scientist**
 
 <lchong@bccrc.ca>
-
-<br>
-
----
-
-<img align="right" src="/img/fong.jpg" height="150">
-
-**Fong Chun Chan, Bioinformatician**
-
-<fcchan@bccrc.ca>
 
 <br>
 
