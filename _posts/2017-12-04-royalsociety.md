@@ -1,5 +1,5 @@
 ---
-title: "Updates on LCR departmental publications"
+title: "Dr. Christian Steidl named a Member to the Royal Society of Canada"
 date: "December 4, 2017"
 layout: post
 tags: [Awards]
