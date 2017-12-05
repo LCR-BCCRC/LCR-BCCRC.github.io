@@ -1,5 +1,5 @@
 ---
-title: "Updates on LCR departmental publications"
+title: "Updates on LCR department publications"
 date: "December 4, 2017"
 layout: post
 tags: [cHL, nanostring, DLBCL, Lymph2Cx, IHC]
