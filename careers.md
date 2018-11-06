@@ -5,7 +5,7 @@ subtitle: Job opportunities in the LCR department
 permalink: /careers.html
 ---
 
-Please direct applications to Barbara Yuen (byuen@bccrc.ca).
+Please direct applications to Maddy Shemko (mshemko@bccrc.ca).
 
 # Steidl Lab
 
