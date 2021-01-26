@@ -17,7 +17,7 @@ baseurl: ""
 title: LCR Department
 
 # Short description of your site
-description: LCR Department at the BC Cancer Research Centre
+description: LCR Department at BC Cancer
 
 # --- Navigation bar options --- #
 
@@ -39,8 +39,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Lauren Chong
-  email: "lchong@bccrc.ca"
+  name: Stacy
+  email: "shung@bccrc.ca"
   github: LCR-BCCRC
 
 # Select which links to show in the footer
