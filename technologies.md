@@ -6,7 +6,7 @@ permalink: /technologies.html
 
 The LCR group is always exploring the use of new technologies to advance our research. Some of the current platforms we utilize within our group include:
 
-* **Illumina MiSeq for next-generation sequencing**
+* **Illumina NextSeq and MiSeq for next-generation sequencing**
 
 * **NanoString nCounter for gene expression analysis [(tag)](/tags/nanostring/)**
 
@@ -20,7 +20,7 @@ The LCR group is always exploring the use of new technologies to advance our res
 
 We also work closely with other researchers at the BC Cancer Agency and the [Michael Smith Genome Sciences Centre](http://www.bcgsc.ca/). These collaborations allow us to generate data using many additional technologies including:
 
-* **Illumina HiSeq and NextSeq**
+* **Illumina HiSeq**
 
 * **10X Genomics Chromium**
 
