@@ -10,7 +10,7 @@ Some of the main tasks we perform include:
 
 * **Pipeline Development**
 
-  We strive to create reproducible and well-documented analysis pipelines for use within and outside the group. We currently develop our pipelines using GNU Makefiles, and are now exploring the use of high-level pipelining tools. 
+  We strive to create reproducible and well-documented analysis pipelines for use within and outside the group. We currently develop our pipelines using [Snakemake](https://snakemake.readthedocs.io/en/latest/). 
   
 * **Lymphoma sample database** 
 
